@@ -8,3 +8,4 @@ Gitの練習をしていきます。
 .Git commit
 .Git rm
 .git status
+.git diff
